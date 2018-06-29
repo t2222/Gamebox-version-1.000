@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1529836107 source:c:\users\tousif\desktop\lab cpp\tester\main.cpp
+	"master.h"
+	"level_1.h"
+	"level_2.h"
+	"player.h"
+	"number_knot.h"
+	"tictactoe.h"
+	"hang.h"
+
+1529749636 c:\users\tousif\desktop\lab cpp\tester\master.h
+	<iostream>
+	<windows.h>
+
+1529820216 c:\users\tousif\desktop\lab cpp\tester\level_1.h
+	<fstream>
+	<iostream>
+	<string>
+	<limits>
+
+1529748270 c:\users\tousif\desktop\lab cpp\tester\level_2.h
+	<fstream>
+
+1529696324 c:\users\tousif\desktop\lab cpp\tester\player.h
+
+1529789790 c:\users\tousif\desktop\lab cpp\tester\number_knot.h
+	<iomanip>
+	<fstream>
+	<string>
+
+1529789874 c:\users\tousif\desktop\lab cpp\tester\tictactoe.h
+	<fstream>
+	<iomanip>
+
+1529836689 c:\users\tousif\desktop\lab cpp\tester\hang.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<ctime>
+	<cctype>
+	<windows.h>
+	<map>
+	<utility>
+	"player.h"
+
+1529836107 source:c:\users\tousif\desktop\tester\main.cpp
+	"master.h"
+	"level_1.h"
+	"level_2.h"
+	"player.h"
+	"number_knot.h"
+	"tictactoe.h"
+	"hang.h"
+
+1529749636 c:\users\tousif\desktop\tester\master.h
+	<iostream>
+	<windows.h>
+
+1529820216 c:\users\tousif\desktop\tester\level_1.h
+	<fstream>
+	<iostream>
+	<string>
+	<limits>
+
+1529748270 c:\users\tousif\desktop\tester\level_2.h
+	<fstream>
+
+1529696324 c:\users\tousif\desktop\tester\player.h
+
+1529789790 c:\users\tousif\desktop\tester\number_knot.h
+	<iomanip>
+	<fstream>
+	<string>
+
+1529789874 c:\users\tousif\desktop\tester\tictactoe.h
+	<fstream>
+	<iomanip>
+
+1529836689 c:\users\tousif\desktop\tester\hang.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<ctime>
+	<cctype>
+	<windows.h>
+	<map>
+	<utility>
+	"player.h"
+
